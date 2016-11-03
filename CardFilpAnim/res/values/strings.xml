@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CardFilpAnim</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="description_image_1">美女哦，约吗？</string>
+    <string name="card_back_title">背面页面</string>
+    <string name="card_back_description">哟，不错哦!</string>
+
+</resources>
